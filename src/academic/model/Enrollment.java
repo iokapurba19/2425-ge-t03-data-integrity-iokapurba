@@ -7,5 +7,5 @@ package academic.model;
 public class Enrollment {
 
     // class definition
-
+    
 }
